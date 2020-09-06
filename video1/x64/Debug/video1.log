@@ -1,0 +1,20 @@
+﻿  video1.cpp
+D:\0学习\实习\video1\video1\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\0学习\实习\video1\video1\video1.cpp(139): warning C4018: “<”: 有符号/无符号不匹配
+D:\0学习\实习\video1\video1\video1.cpp(140): warning C4996: 'AVStream::codec': 被声明为已否决
+  D:\0学习\实习\video1\video1\include\libavformat\avformat.h(880): note: 参见“AVStream::codec”的声明
+D:\0学习\实习\video1\video1\video1.cpp(148): warning C4996: 'AVStream::codec': 被声明为已否决
+  D:\0学习\实习\video1\video1\include\libavformat\avformat.h(880): note: 参见“AVStream::codec”的声明
+D:\0学习\实习\video1\video1\video1.cpp(125): warning C4996: 'av_register_all': 被声明为已否决
+  D:\0学习\实习\video1\video1\include\libavformat\avformat.h(2050): note: 参见“av_register_all”的声明
+D:\0学习\实习\video1\video1\video1.cpp(262): warning C4996: 'av_free_packet': 被声明为已否决
+  D:\0学习\实习\video1\video1\include\libavcodec\packet.h(538): note: 参见“av_free_packet”的声明
+D:\0学习\实习\video1\video1\video1.cpp(121): warning C4101: “video_tid”: 未引用的局部变量
+D:\0学习\实习\video1\video1\video1.cpp(316): warning C4018: “<”: 有符号/无符号不匹配
+D:\0学习\实习\video1\video1\video1.cpp(298): warning C4996: 'av_register_all': 被声明为已否决
+  D:\0学习\实习\video1\video1\include\libavformat\avformat.h(2050): note: 参见“av_register_all”的声明
+D:\0学习\实习\video1\video1\video1.cpp(300): warning C4996: 'avcodec_register_all': 被声明为已否决
+  D:\0学习\实习\video1\video1\include\libavcodec\avcodec.h(2751): note: 参见“avcodec_register_all”的声明
+D:\0学习\实习\video1\video1\video1.cpp(290): warning C4101: “i”: 未引用的局部变量
+D:\0学习\实习\video1\video1\video1.cpp(283): warning C4715: “sdlplayer”: 不是所有的控件路径都返回值
+  video1.vcxproj -> D:\0学习\实习\video1\x64\Debug\video1.exe
